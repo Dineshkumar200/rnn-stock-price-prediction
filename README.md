@@ -1,18 +1,23 @@
-# Stock Price Prediction
+### EX NO: 05
+
+### DATE: 16/10/2022 
+
+
+# <br/><p align = "center"> Stock Price Prediction </p>
 
 ## AIM
 
 To develop a Recurrent Neural Network model for stock price prediction.
 
-## Problem Statement and Dataset
+## <br/><br/><br/>Problem Statement and Dataset
 We are developing the RNN model to predict the stock prices of Google using the dataset provided. The dataset has many features, but we will be predicting the "Open" feauture alone. We will be using a sequence of 60 readings to predict the 61st reading.we have taken 70 Inputs with 70 Neurons in the RNN Layer (hidden) and one neuron for the Output Layer.These parameters can be changed as per requirements.
 
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Neural Network Model
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Neural Network Model
 
 ![IMG](https://user-images.githubusercontent.com/75235789/196047646-f8e900d5-ad03-4188-8fd0-6753f7180513.jpeg)
 
 
-## DESIGN STEPS
+## <br/><br/><br/><br/><br/>DESIGN STEPS
 
 ### STEP 1:
 Import tensorflow library and preprocessing libraries.
